@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ali Hasan Kazmi
-- 👀 I’m interested in Web development and Data Science.
-- 🌱 I’m currently learning React Native.
+- 👀 I’m interested in mobile app development and Data Science.
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on open source.
 - 📫 How to reach me alihassankazmi2000.5@gmail.com
 
