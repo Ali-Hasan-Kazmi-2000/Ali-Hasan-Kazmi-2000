@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ali Hasan Kazmi
-- 👀 I’m interested in mobile app development and Data Science.
-- 🌱 I’m currently learning Flutter.
+- 👀 I’m interested in Full stack web development.
+- 🌱 I’m currently learning Angular js.
 - 💞️ I’m looking to collaborate on open source.
-- 📫 How to reach me alihassankazmi2000.5@gmail.com
+- 📫 How to reach me alihasan99.2@yahoo.com
 
 <!---
 Ali-Hasan-Kazmi-2000/Ali-Hasan-Kazmi-2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
