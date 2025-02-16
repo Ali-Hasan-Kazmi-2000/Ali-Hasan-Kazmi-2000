@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ali Hasan Kazmi
 - 👀 I’m interested in Full stack web development.
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently learning .NET Stack.
 - 💞️ I’m looking to collaborate on open source.
 - 📫 How to reach me alihasan99.2@yahoo.com
 
